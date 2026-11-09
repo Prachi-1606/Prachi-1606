@@ -24,7 +24,7 @@ I've always been someone who learns best by building things. A concept clicks di
 
 - 💼 **Software Developer at Cognizant** — working on enterprise LIMS applications for a Germany-based agricultural client
 - 🔬 Keeping 5+ lab systems stable at **99%+ availability** for researchers doing biological testing & small-molecule screening
-- 🛠️ Full-stack across **ASP.NET Core, Java Spring Boot, React, and Python**
+- 🛠️ Full-stack across **Java Spring Boot, React, and Python**
 - 🌱 Currently exploring **AI integrations and distributed systems**
 - 🏆 **500+ LeetCode problems** 
 - 👩‍💻 Former **President of Coding Club** · Mentored **100+ students** · Ran **20+ contests**
@@ -70,7 +70,7 @@ I've always been someone who learns best by building things. A concept clicks di
 
 ## 💼 Experience
 
-**Programmer Analyst — Cognizant Technology Solutions** *(Jul 2025 – Present)*
+**Software Developer — Cognizant Technology Solutions** *(Jul 2025 – Present)*
 - Maintaining 5+ integrated LIMS applications at 99%+ availability for a Germany-based agricultural client
 - Shipped enhancements improving result visibility by ~30% and cut bug resolution time by ~30%
 - Stack: ASP.NET Core MVC · C# · SQL Server · Azure DevOps · Agile/Scrum
@@ -95,10 +95,8 @@ I've always been someone who learns best by building things. A concept clicks di
 **Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Databases & Tools**
 
