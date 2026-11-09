@@ -22,7 +22,7 @@
 
 I've always been someone who learns best by building things. A concept clicks differently when you've actually wired it together yourself.
 
-- 💼 **Programmer Analyst at Cognizant** — working on enterprise LIMS applications for a Germany-based agricultural client
+- 💼 **Software Developer at Cognizant** — working on enterprise LIMS applications for a Germany-based agricultural client
 - 🔬 Keeping 5+ lab systems stable at **99%+ availability** for researchers doing biological testing & small-molecule screening
 - 🛠️ Full-stack across **ASP.NET Core, Java Spring Boot, React, and Python**
 - 🌱 Currently exploring **AI integrations and distributed systems**
